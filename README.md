@@ -34,7 +34,7 @@ This repository contains code, configuration examples, and documentation for bui
 
 **Contributing**
 
-Contributions, issues and feature requests are welcome. Please open an issue or submit a pull request.
+     Contributions, issues and feature requests are welcome. Please open an issue or submit a pull request.
 
 **License**
 
