@@ -39,5 +39,3 @@ This repository contains code, configuration examples, and documentation for bui
 **License**
 
      This project is licensed under the MIT License - see the LICENSE file for details.
-
-     (Full README content attached in commit)
